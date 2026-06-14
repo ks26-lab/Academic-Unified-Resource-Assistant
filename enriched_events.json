@@ -1,0 +1,605 @@
+[
+  {
+    "eventType": "CONFERENCE",
+    "school": "School of Advanced Science",
+    "title": "International Conference on Organic and Inorganic Materials for Energy and Sustainability (ICMES-2026)",
+    "startDate": "10-09-2026 09:00",
+    "endDate": "10-09-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "Research"
+    ],
+    "skills": [
+      "Research",
+      "Academic Writing",
+      "Publication"
+    ],
+    "difficulty": "Advanced",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Electronics Engineering",
+    "title": "2-day National Workshop RISC-V on FPGA: Application Development & Porting (hands-on)",
+    "startDate": "22-08-2026 09:00",
+    "endDate": "23-08-2026 17:30",
+    "details": "View details",
+    "categories": [
+      "Embedded Systems"
+    ],
+    "skills": [
+      "Embedded Systems",
+      "FPGA",
+      "RISC-V"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Computer Science Engineering and Information Systems",
+    "title": "One Day International Workshop on Graph Coloring, Labeling: Algorithms and Applications (IWGCLAA-2026)",
+    "startDate": "29-06-2026 09:00",
+    "endDate": "29-06-2026 17:30",
+    "details": "View details",
+    "categories": [
+      "Networking"
+    ],
+    "skills": [
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Computer Science and Engineering",
+    "title": "One Day Online Workshop on Alert to Evidence: Digital Forensics & Incident Response",
+    "startDate": "27-06-2026 09:30",
+    "endDate": "27-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "Cybersecurity",
+      "Networking"
+    ],
+    "skills": [
+      "Cybersecurity",
+      "Digital Forensics",
+      "Incident Response",
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Electronics Engineering",
+    "title": "International Seminar On Next-Generation Semiconductor Devices for Sensing and THz Applications (HYBRID MODE)",
+    "startDate": "26-06-2026 09:00",
+    "endDate": "26-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "General Engineering"
+    ],
+    "skills": [],
+    "difficulty": "Beginner",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Computer Science and Engineering",
+    "title": "Three Days Workshop on Climate - Health Data Analysis Using Artificial Intelligence, Time Series & Predictive Modelling In Python",
+    "startDate": "25-06-2026 09:00",
+    "endDate": "27-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "Artificial Intelligence",
+      "Networking",
+      "Data Science"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI",
+      "Data Analysis",
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems",
+      "Python",
+      "Data Science",
+      "Analytics"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "VIT School of Agricultural Innovations And Advanced Learning",
+    "title": "Two days workshop on RNA SEQUENCING (RNA-seq) and Data Analysis",
+    "startDate": "24-06-2026 09:00",
+    "endDate": "25-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "Data Science"
+    ],
+    "skills": [
+      "Python",
+      "Data Science",
+      "Analytics"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Mechanical Engineering",
+    "title": "One-Day Executive Development Program on X-ray Photoelectron Spectroscopy (XPS) and Inductively coupled plasma mass spectrometry (ICPMS)",
+    "startDate": "20-06-2026 10:00",
+    "endDate": "20-06-2026 16:00",
+    "details": "View details",
+    "categories": [
+      "General Engineering"
+    ],
+    "skills": [],
+    "difficulty": "Beginner",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Electronics Engineering",
+    "title": "A One-day National Workshop (hands-on) Hands-on Workshop on RF & Microwave Circuits for Wireless Communication",
+    "startDate": "20-06-2026 09:00",
+    "endDate": "20-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "Networking"
+    ],
+    "skills": [
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Computer Science Engineering and Information Systems",
+    "title": "Next-Gen AI: Transformers, Edge AI, and Sustainable Intelligence (Hybrid Mode)",
+    "startDate": "19-06-2026 09:00",
+    "endDate": "19-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI",
+      "Data Analysis"
+    ],
+    "difficulty": "Beginner",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Computer Science and Engineering",
+    "title": "A One Day Online Workshop On Intelligent Net-Zero Energy Solutions: Optimal PV-Wind-EV Infrastructure Design and ANN Enabled Solar PV Technologies",
+    "startDate": "18-06-2026 09:00",
+    "endDate": "18-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "Networking"
+    ],
+    "skills": [
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Electronics Engineering",
+    "title": "One day National Workshop Next-Generation Printed Antennas and Amplifiers for 5G-Enabled IoT Design to Deployment",
+    "startDate": "17-06-2026 09:00",
+    "endDate": "17-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "Networking",
+      "Embedded Systems"
+    ],
+    "skills": [
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems",
+      "Embedded Systems",
+      "FPGA",
+      "RISC-V"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "FDP",
+    "school": "VIT Business School",
+    "title": "FDP on APPLIED FORECASTING WITH PYTHON From Classical Models to AI / ML",
+    "startDate": "15-06-2026 09:00",
+    "endDate": "19-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "Data Science"
+    ],
+    "skills": [
+      "Python",
+      "Data Science",
+      "Analytics"
+    ],
+    "difficulty": "Beginner",
+    "targetAudience": [
+      "Faculty",
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Electronics Engineering",
+    "title": "A One-day National Workshop (hands-on) Machine Learning for Image Processing: Fundamentals, Recent Advances, and Real-World Applications",
+    "startDate": "13-06-2026 10:00",
+    "endDate": "13-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI",
+      "Data Analysis"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Electronics Engineering",
+    "title": "One Day National Level Workshop on Al, Machine learning and Deep Learning - 2026",
+    "startDate": "13-06-2026 09:30",
+    "endDate": "13-06-2026 17:15",
+    "details": "View details",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI",
+      "Data Analysis"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Social Science & Languages",
+    "title": "One-Day Online Workshop on Navigating the Research Landscape: Academic Writing, Research Methodology & Scholarly Communication for Research Scholars in English",
+    "startDate": "12-06-2026 09:30",
+    "endDate": "12-06-2026 16:30",
+    "details": "View details",
+    "categories": [
+      "Research",
+      "Networking"
+    ],
+    "skills": [
+      "Research",
+      "Academic Writing",
+      "Publication",
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Advanced",
+    "targetAudience": [
+      "Researchers",
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Computer Science and Engineering",
+    "title": "One Day National Workshop on Next-Generation Vehicular Communication Security (Hybrid Mode)",
+    "startDate": "12-06-2026 09:00",
+    "endDate": "12-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "Cybersecurity",
+      "Networking"
+    ],
+    "skills": [
+      "Cybersecurity",
+      "Digital Forensics",
+      "Incident Response",
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Computer Science and Engineering",
+    "title": "One Day Workshop on Career Catalyst Skill Development Workshop",
+    "startDate": "12-06-2026 09:00",
+    "endDate": "12-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "General Engineering"
+    ],
+    "skills": [],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Advanced Science",
+    "title": "One-Day Workshop on Algebra for the CSIR/GATE aspirants",
+    "startDate": "12-06-2026 09:00",
+    "endDate": "12-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "General Engineering"
+    ],
+    "skills": [],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Electronics Engineering",
+    "title": "Practical CAN, LIN & Ethernet for Engineers and Researchers - Next-Gen Automotive Networking Training Program",
+    "startDate": "11-06-2026 09:00",
+    "endDate": "12-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "Research",
+      "Networking"
+    ],
+    "skills": [
+      "Research",
+      "Academic Writing",
+      "Publication",
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Advanced",
+    "targetAudience": [
+      "Researchers",
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Electronics Engineering",
+    "title": "A One-day National Workshop Exposure to Final Year Project Domains in Electronics and Communication Engineering From Idea Selection to Project Development",
+    "startDate": "10-06-2026 10:00",
+    "endDate": "05-06-2026 17:00",
+    "details": "View details",
+    "categories": [
+      "Networking"
+    ],
+    "skills": [
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Social Science & Languages",
+    "title": "One Day Online Workshop on Communicating with Confidence Professional English Skills for Undergraduate Students",
+    "startDate": "10-06-2026 09:00",
+    "endDate": "10-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "Networking"
+    ],
+    "skills": [
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "EDP",
+    "school": "School of Advanced Science",
+    "title": "EDP on Hybrid Quantum-Classical Models for Statistical Learning",
+    "startDate": "08-06-2026 09:00",
+    "endDate": "12-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "Quantum Computing"
+    ],
+    "skills": [
+      "Quantum Computing",
+      "Quantum Machine Learning"
+    ],
+    "difficulty": "Beginner",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Advanced Science",
+    "title": "One-Day Workshop on Nonlinear Dynamical Systems: Theory, Computation, and AI-Driven Approaches",
+    "startDate": "08-06-2026 09:00",
+    "endDate": "08-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "Artificial Intelligence",
+      "Networking"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI",
+      "Data Analysis",
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "FDP",
+    "school": "School of Electronics Engineering",
+    "title": "Five Days Online Faculty Development Program FDP on Next Generation Communication Systems and AI Driven Signal Processing Trends and Applications",
+    "startDate": "08-06-2026 09:00",
+    "endDate": "12-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "Networking"
+    ],
+    "skills": [
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Beginner",
+    "targetAudience": [
+      "Faculty",
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "CONFERENCE",
+    "school": "School of Advanced Science",
+    "title": "International Conference on Mathematical Modelling and Computational Intelligence for Sustainable Development - 2026 (ICMMCISD-2026)",
+    "startDate": "03-06-2026 09:00",
+    "endDate": "05-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "Research",
+      "Networking"
+    ],
+    "skills": [
+      "Research",
+      "Academic Writing",
+      "Publication",
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Advanced",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "WORKSHOP",
+    "school": "School of Electronics Engineering",
+    "title": "One Day National Level workshop on Qniverse Unlocked: Hands-on Quantum Programming (Online Mode)",
+    "startDate": "01-06-2026 10:00",
+    "endDate": "02-06-2026 13:00",
+    "details": "View details",
+    "categories": [
+      "Quantum Computing",
+      "Networking"
+    ],
+    "skills": [
+      "Quantum Computing",
+      "Quantum Machine Learning",
+      "Networking",
+      "Wireless Systems",
+      "Communication Systems"
+    ],
+    "difficulty": "Intermediate",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "VAC",
+    "school": "School of Social Science & Languages",
+    "title": "Value Added Course German Language Aligned to A1 Level",
+    "startDate": "25-05-2026 09:00",
+    "endDate": "25-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "General Engineering"
+    ],
+    "skills": [],
+    "difficulty": "Beginner",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  },
+  {
+    "eventType": "VAC",
+    "school": "School of Social Science & Languages",
+    "title": "Value Added Course Japanese Language-Next Level JLPT N5 Aligned",
+    "startDate": "01-05-2026 09:00",
+    "endDate": "15-06-2026 18:00",
+    "details": "View details",
+    "categories": [
+      "General Engineering"
+    ],
+    "skills": [],
+    "difficulty": "Beginner",
+    "targetAudience": [
+      "Engineering Students"
+    ]
+  }
+]
